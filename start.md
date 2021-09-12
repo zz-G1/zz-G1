@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning threadlocal,boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me QQ 1614399965
+- start --
 
 <!---
 zz-G1/zz-G1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
